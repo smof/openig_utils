@@ -1,0 +1,4 @@
+GET,http://widgets.example.com:3001/widgets/
+GET,http://widgets.example.com:3001/widgets/queryAll
+POST,http://widgets.example.com:3001/widgets/
+DELETE,http://widgets.example.com:3001/widgets/

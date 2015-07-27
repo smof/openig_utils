@@ -1,0 +1,14 @@
+{
+	"heap": 
+	{
+		"objects": 
+		[
+			
+		]
+	},
+
+	"name": "<NAME>",
+	"handler": "ClientHandler",
+	"condition": "${(exchange.request.method == '<METHOD>' && matches(exchange.request.uri.path, '<ENDPOINT>'))}",
+	"baseURI": "<BASE>"
+}
